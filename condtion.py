@@ -1,15 +1,11 @@
-frame ="prasad"
-print(prasad" in frame)
-      
-      print("d" in frame)
+def sum_with_void(x):
+    sayHello()
+    print(x+1)
 
-      print("s" not in frame)
+def sayHello():
+    print("hello")
 
-      print(frame[0]) #p
-
-      #frame[0] = "b"
-
-      fname = "sai"
-      print(fname)
-
-      print(fname[-1]) #p
+ def sum_with_return(x):
+        return x+1
+        print("done")
+        

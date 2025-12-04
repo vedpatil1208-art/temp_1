@@ -1,0 +1,10 @@
+print("Total Marks is 400.")
+a=int(input("Enter first subject marks: "))
+b=int(input("Enter second subject marks: "))
+c=int(input("Enter third subject marks: "))
+d=int(input("Enter fourth subject marks: "))
+e=int(input("Enter fifth subject marks: "))
+
+print("Total Score: ", a+b+c+d+e)
+print("Average Score: ", ((a+b+c+d+e)/5))
+print("Percentage: ", ((a+b+c+d+e)/400)*100)
